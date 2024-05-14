@@ -6,14 +6,14 @@
 - 👻 Fun fact: Did you know that the original name for JavaScript was Mocha? It was later changed to LiveScript before finally settling on JavaScript.
 - 📫 How to reach me: https://www.linkedin.com/in/serhii-chernikov-161242230/
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<hr />
 
 ## By the way here are some of my statistics 🚀
 ![Serhii Chernikov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=perseverance50k&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=perseverance50k&theme=tokyonight" alt="mystreak"/>
 ![Serhii Chenrikov's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perseverance50k&theme=tokyonight&layout=compact)
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<hr />
 
 ## My tech stack 🏗
 
