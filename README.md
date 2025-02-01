@@ -11,4 +11,3 @@
 ## By the way here are some of my statistics 🚀
 ![Serhii Chernikov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=perseverance50k&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=perseverance50k&theme=tokyonight" alt="mystreak"/>
-![Serhii Chenrikov's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perseverance50k&theme=tokyonight&layout=compact)
