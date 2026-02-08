@@ -1,10 +1,10 @@
 <h1 align="center">Hi there! I'm Serhii 👋🏼<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
-### 💻 I'm a Full-stack JavaScript Engineer!
+### 💻 I'm a Full-Stack Software Engineer!
 
-- 📚 Currently, I'm learning various topics related to how to build scalable and high-performing web and mobile applications.
+- 📚 Currently, I'm mastering building scalable and high-performing web and mobile applications.
 - 👻 Fun fact: Did you know that the original name for JavaScript was Mocha? It was later changed to LiveScript before finally settling on JavaScript.
-- 📫 How to reach me: https://www.linkedin.com/in/serhii-chernikov-161242230/
+- 📫 How to reach me: https://www.linkedin.com/in/serhii-chernikov/
 
 <hr />
 
