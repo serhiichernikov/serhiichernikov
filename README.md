@@ -9,5 +9,5 @@
 <hr />
 
 ## By the way here are some of my statistics 🚀
-![Serhii Chernikov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=perseverance50k&show_icons=true&theme=tokyonight)
+[![Serhii's GitHub stats](https://github-readme-stats.vercel.app/api?username=perseverance50k)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=perseverance50k&theme=tokyonight" alt="mystreak"/>
